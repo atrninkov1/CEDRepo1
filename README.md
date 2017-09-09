@@ -1,4 +1,4 @@
 # CEDRepo1
 aleksandar trninkov
-atrninko1
+atrninkov1
 eh
